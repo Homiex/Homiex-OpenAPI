@@ -1,13 +1,7 @@
-# Api Endpoints for Broker
+# Api Endpoints for HomiEx Broker
 
-## Base Domain
-
-homiex.com
-
-## API Endpoint ($HOST)
-
-| Name               | base endpoint                                    |
-| ------------------ | ------------------------------------------------ |
-| rest-api           | **[https://api.homiex.com](https://api.homiex.com)** |
-| web-socket-streams | **[wss://wsapi.homiex.com](wss://wsapi.homiex.com)** |
-| user-data-stream   | **[wss://wsapi.homiex.com](wss://wsapi.homiex.com)** |
+Name | base endpoint
+------------ | ------------
+rest-api | **[https://api.homiex.com](https://api.homiex.com)**
+web-socket-streams | **[wss://wsapi.homiex.com](wss://wsapi.homiex.com)**
+user-data-stream | **[wss://wsapi.homiex.com](wss://wsapi.homiex.com)**
